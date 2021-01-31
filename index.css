@@ -1,0 +1,79 @@
+body {
+    background-image: url(https://www.wallpapertip.com/wmimgs/4-45746_desktop-wallpaper-geometric.jpg);
+    -moz-background-size: 100%; 
+    -webkit-background-size: 100%; 
+    -o-background-size: 100%; 
+    background-size: 100%; 
+}
+.navigation-link {
+    border: 4px solid transparent
+}
+
+.navigation-link:hover {
+    text-decoration: none;
+    border-bottom: 4px solid #1a6785;
+    transition: 0.5s ease;
+}
+
+.text1 {
+    font-family: "Sofia", sans-serif, bold;
+    color: white;
+}
+.text2 {
+    font-family: "Lucida Handwriting", Cursive, bold;
+    font-size: 20px;
+}
+.one {
+    padding-top: 20px;
+}
+
+.r_one {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.r_one img {
+    height: 100vh;
+}
+.text3 {
+    font-family: "Lucida Handwriting", Cursive, bold;
+    font-size: 50px;
+    color: #ff0008 ;
+}
+
+.text4 {
+    font-family: "Lucida Handwriting", Cursive, bold;
+    font-size: 50px;
+    color: #e2953d;
+}
+
+.grad {
+    height: 100vh;
+}
+
+.h1 {
+    font-family: "Lucida Handwriting", Cursive, bold;
+    color: black;
+    text-align: center;
+}
+
+.p1 {
+    font-family: "Sofia", sans-serif, bold;
+    color: rgb(22, 22, 22);
+    font-size: 23px;
+}
+
+.h2 {
+    font-family: "Lucida Handwriting", Cursive, bold;
+    color: black;
+}
+
+.p2 {
+    font-family: "Sofia", sans-serif, bold;
+    color: white;
+    font-size: 23px;
+}
+.p3 {
+    text-align: center;
+}
